@@ -15,6 +15,8 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 - [DataYes](www.datayes.com)
 
 
+## Policies
+- [北京市促进金融科技发展规划（2018年-2022年）](http://www.01caijing.com/blog/329438.htm)
 
 
 
@@ -34,6 +36,8 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 * [highstock](https://www.highcharts.com/blog/products/highstock/)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) 
 * [pyfolio](https://github.com/quantopian/pyfolio) 
+
+
 
 
 
