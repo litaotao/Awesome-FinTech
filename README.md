@@ -7,12 +7,18 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 ## Resources
 
 - [金融科技企业数据库](http://www.fintechdb.cn/)
+- [铅笔道-精选项目](https://www.pencilnews.cn/projectlist)
+- [36kr-鲸准-创业项目资金对接信息平台（需账号认证）](https://rong.36kr.com/)
 
 
 
 ## Companies
 
-- [DataYes](www.datayes.com)
+For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Firms.xlsx)
+
+![](./ff-1.png)
+
+
 
 
 ## Policies
