@@ -12,6 +12,7 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 
 
 
+
 ## Companies
 
 For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Firms.xlsx)
@@ -23,6 +24,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 
 ## Policies
 - [北京市促进金融科技发展规划（2018年-2022年）](http://www.01caijing.com/blog/329438.htm)
+
 
 
 
@@ -49,4 +51,11 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 
 
 ## Jobs
+
+
+
+
+
+
+
 
