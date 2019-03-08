@@ -47,10 +47,27 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 
 
 
+## Instant Message
 
+Feel free to join our group（请使用微信扫码二维码即可）
+
+![](./ks.png)
 
 
 ## Jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
