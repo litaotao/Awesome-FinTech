@@ -51,7 +51,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 
 Feel free to join our group（请使用微信扫码二维码即可）
 
-![](./ks.png)
+<img src="./ks.png" width = "400" align=center />
 
 
 ## Jobs
