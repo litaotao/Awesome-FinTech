@@ -9,6 +9,7 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 - [金融科技企业数据库](http://www.fintechdb.cn/)
 - [铅笔道-精选项目](https://www.pencilnews.cn/projectlist)
 - [36kr-鲸准-创业项目资金对接信息平台（需账号认证）](https://rong.36kr.com/)
+- [AIEQ: The AI Powered Equity ETF (NYSE: AIEQ) ](https://www.aieqetf.com/)
 
 
 
