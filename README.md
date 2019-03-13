@@ -9,7 +9,7 @@ Everything about FinTech: companies, technologies, libraries & packages, policie
 - [金融科技企业数据库](http://www.fintechdb.cn/)
 - [铅笔道-精选项目](https://www.pencilnews.cn/projectlist)
 - [36kr-鲸准-创业项目资金对接信息平台（需账号认证）](https://rong.36kr.com/)
-- [AIEQ: The AI Powered Equity ETF (NYSE: AIEQ) ](https://www.aieqetf.com/)
+- [AIEQ: The AI Powered Equity ETF (NYSE: AIEQ)](https://www.aieqetf.com/)
 
 
 
@@ -24,6 +24,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 
 
 ## Policies
+
 - [北京市促进金融科技发展规划（2018年-2022年）](http://www.01caijing.com/blog/329438.htm)
 
 
@@ -35,16 +36,22 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 - [tushare](https://github.com/waditu/tushare)
 - [vnpy](https://github.com/vnpy/vnpy)
 - [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp)
+* [pyfolio](https://github.com/quantopian/pyfolio) 
 
 
 
-
-## Charts
+## Charts & Display
 
 * [highcharts](https://www.highcharts.com/)
 * [highstock](https://www.highcharts.com/blog/products/highstock/)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) 
-* [pyfolio](https://github.com/quantopian/pyfolio) 
+- [interactjs](http://interactjs.io/)
+- [revealjs - New Presentation Style](https://revealjs.com)
+- [jsplumb](https://jsplumbtoolkit.com/download)
+- [draw.io](https://www.draw.io/)
+- [mxgraph](https://github.com/jgraph/mxgraph)
+- [gojs: Interactive JavaScript Diagrams for the Web](https://gojs.net/beta/index.html)
+- [jointjs](https://www.jointjs.com/opensource)
 
 
 
