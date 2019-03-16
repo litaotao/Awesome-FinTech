@@ -54,6 +54,11 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 - [jointjs](https://www.jointjs.com/opensource)
 
 
+## Tools & Utils
+
+- [hevodata: Modern Data Integration Platform for Analytics](https://hevodata.com/)
+
+
 
 ## Instant Message
 
