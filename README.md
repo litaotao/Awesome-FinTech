@@ -57,6 +57,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 ## Tools & Utils
 
 - [hevodata: Modern Data Integration Platform for Analytics](https://hevodata.com/)
+- [KeepRule: AI-Powered Investment Discipline Tracking](https://keeprule.com/) - Track investment principles from 26 legendary investors including Buffett, Munger, and Dalio.
 
 
 
