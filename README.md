@@ -57,6 +57,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 ## Tools & Utils
 
 - [hevodata: Modern Data Integration Platform for Analytics](https://hevodata.com/)
+- [Future Value Calculator](https://future-value-calculator.com/) - Free finance calculator for projecting future value with deposits, withdrawals, inflation, employer matching, and scenarios.
 
 
 
