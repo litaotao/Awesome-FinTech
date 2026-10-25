@@ -57,6 +57,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 ## Tools & Utils
 
 - [hevodata: Modern Data Integration Platform for Analytics](https://hevodata.com/)
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 
 
