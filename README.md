@@ -37,6 +37,7 @@ For latest list, please check the excel file: [FinTech-Firms.xlsx](./FinTech-Fir
 - [vnpy](https://github.com/vnpy/vnpy)
 - [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp)
 * [pyfolio](https://github.com/quantopian/pyfolio) 
+- [levelcfo/open-finance-skills](https://github.com/levelcfo/open-finance-skills): 20 open-source accounting, treasury, and financial close verification skills and MCP server ([Docs](https://levelcfo.com/finance-systems/)).
 
 
 
